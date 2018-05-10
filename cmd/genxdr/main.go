@@ -87,7 +87,7 @@ var headerData = `// ***********************************************************
 package {{.Package}}
 
 import (
-	"github.com/calmh/xdr"
+	"github.com/redsift/xdr"
 )
 `
 
